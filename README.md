@@ -13,7 +13,6 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Deployment](#live-demo)
-  - [Authors Zoom Recording](#zoom)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
@@ -61,12 +60,6 @@
 - **[Fetch Data from API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Zoom Video (explanation) <a name="zoom"></a>
-
-[Author's Explanation]()
-
-- Coming Soon
 
 <!-- GETTING STARTED -->
 

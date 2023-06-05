@@ -5,7 +5,7 @@
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)

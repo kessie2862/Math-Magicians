@@ -5,16 +5,15 @@
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
+
 ## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Deployment](#live-demo)
-  - [Authors Zoom Recording](#zoom)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
@@ -63,16 +62,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming Soon
-
-## 🚀 Zoom Video (explanation) <a name="zoom"></a>
-
-[Author's Explanation]()
-
-- Coming Soon
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -89,7 +78,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``` sh
+```sh
   cd my-folder
   git clone https://github.com/kessie2862/Math-Magicians.git
 ```
@@ -100,15 +89,16 @@ Install this project with:
 
 - Install using Visual Code extention tab
 
-``` sh
+```sh
     cd Math-Magicians
     npm install
 ```
+
 ### Usage
 
 To start this project, run
 
-``` sh
+```sh
     npm start
 ```
 
@@ -164,4 +154,4 @@ I would like to thank everyone who contributed to the organisation of this proje
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/kessie2862/Math-Magicians/blob/setup-project/LICENSE) licensed.

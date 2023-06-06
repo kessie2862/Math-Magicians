@@ -5,6 +5,7 @@
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
+
 ## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -77,7 +78,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``` sh
+```sh
   cd my-folder
   git clone https://github.com/kessie2862/Math-Magicians.git
 ```
@@ -88,15 +89,16 @@ Install this project with:
 
 - Install using Visual Code extention tab
 
-``` sh
+```sh
     cd Math-Magicians
     npm install
 ```
+
 ### Usage
 
 To start this project, run
 
-``` sh
+```sh
     npm start
 ```
 

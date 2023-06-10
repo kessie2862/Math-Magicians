@@ -29,7 +29,7 @@
 
 # 📖 Math Magician Project <a name="about-project"></a>
 
-**Math-Magicians** is a simple single page application that allows users to make simple calculation and read random math-related quotes.
+**Math-Magicians** is a simple single page application (S.P.A) that allows users to make simple calculation and read random math-related quotes.
 
 ## 🛠 Built With <a name="built-with"></a>
 

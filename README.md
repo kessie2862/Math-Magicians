@@ -120,7 +120,7 @@ To start this project, run
 
 - [ ] **[Animation and Transition]**
 - [ ] **[Database]**
-- [ ] **[Making page responsive]**
+- [ ] **[Making the page responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

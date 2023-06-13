@@ -8,19 +8,26 @@
   justify-content: flex-end;
 }
 
-.center {
-  margin-top: 5rem;
+.display-items {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 70%;
+  margin: 5rem auto 0;
+}
+
+.calc-header {
+  color: #575757;
 }
 
 .display {
-  height: 1.5rem;
   margin: 0 auto;
   padding: 1.3rem;
   width: 25%;
-  min-width: 26rem;
+  min-width: 29rem;
   font-size: 1.8rem;
   text-align: right;
-  color: #333;
+  color: #575757;
   background-color: #d5d5d5;
 }
 

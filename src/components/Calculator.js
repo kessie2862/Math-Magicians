@@ -25,9 +25,12 @@ function Calculator() {
   };
 
   return (
-    <div className="center">
-      <div className="display">{displayValue}</div>
-      <Button onButtonClick={handleButtonClick} />
+    <div className="display-items">
+      <h1 className="calc-header">Let&apos;s do some math!</h1>
+      <div className="center">
+        <div className="display">{displayValue}</div>
+        <Button onButtonClick={handleButtonClick} />
+      </div>
     </div>
   );
 }

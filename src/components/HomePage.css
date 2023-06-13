@@ -1,0 +1,18 @@
+.home-container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.home-title {
+  color: #575757;
+  font-size: 2rem;
+  margin: 5rem 0 3rem;
+  text-align: left;
+}
+
+.texts {
+  font-size: 1.25rem;
+  padding: 2rem 0;
+  text-align: left;
+  color: #575757;
+}

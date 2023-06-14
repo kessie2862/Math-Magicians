@@ -35,7 +35,7 @@ describe('operate', () => {
     const result = operate(7, 0, '%');
     expect(result).toBe("Can't find modulo as can't divide by 0.");
   });
-  
+
   it('should throw an error for unknown operations', () => {
     expect(() => operate(2, 3, '^')).toThrow("Unknown operation '^'");
   });

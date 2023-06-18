@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # 📖 Math-Magicians
 
 <a name="readme-top"></a>
